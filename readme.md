@@ -1,6 +1,6 @@
 # Livro de Receitas :man_cook:
 
-The best recipe boo ever.  :wave:
+The best recipe book ever.  :wave:
 
 
 
